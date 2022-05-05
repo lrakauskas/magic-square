@@ -1,4 +1,5 @@
 # Privacy policy for Magic Square published by Rolling Sausage:
-- This app does not collect or use any personal information.
-- This app does not store any personal data.
-- This app does not share it to third party organisations.
+This application collects information about the user and sends it to third-party advertisments provider Google Ads. All collected information is necessary to display advertisments within the application. Detailed information of what data is collected and how it is used by third-party company can be found at https://developers.google.com/admob/android/play-data-disclosure
+
+Rolling Sausage does not collect any other information besides the cases described above in this document.
+
